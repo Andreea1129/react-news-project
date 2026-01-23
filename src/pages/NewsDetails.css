@@ -1,0 +1,31 @@
+/* Stilizam si contentul venit de la The Guardian */
+.newsDetails{
+    text-align:left;
+}
+
+.newsDetails img {
+    width:100%;
+    height:auto;
+}
+
+.newsDetails a, .newsDetails a:hover{
+    color:var(--text-secondary);
+}
+
+.newsDetails h2, .newsDetails h3{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.newsDetails figcaption{
+    font-size: 0.875em;
+}
+
+.newsDetails iframe[src*='youtube']{
+    width: 100%;
+    aspect-ratio:16/9;
+}
+
+.newsDetails a {
+    display:inline;
+}

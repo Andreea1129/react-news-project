@@ -1,0 +1,12 @@
+/* Ne asiguram ca pagina ocupa minim toata inatlimea ecranului */
+.layout{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Cu selectorul de mai jos ne asiguram ca tag-ul main care are in interior continutul principal va creste cat are loc astfel incat footer sa fie mereu in josul paginii */
+.layout main {
+    flex: 1;
+    text-align: center;
+}
