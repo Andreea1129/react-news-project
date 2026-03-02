@@ -26,5 +26,4 @@ All saved articles can be accessed in the Favorites section, where users can als
 - HTML
 
 # Deployment
-The application is deployed on Netlify and can be accessed at the following link:
-https://project-record-news.netlify.app/
+The application is deployed on Netlify and can be accessed at the following link: https://project-record-news.netlify.app/
