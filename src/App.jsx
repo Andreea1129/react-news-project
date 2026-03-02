@@ -11,7 +11,6 @@ import { favouritesReducer, initialState } from "./store/reducer";
 import { FavouritesContext } from "./store/context";
 import { useLocalStorage } from "./utils/hooks/useLocalStorage";
 
-// Definim rutele, similar cu ce am facut la sedinta de React Routing
 // createBrowserRouter este folosit pentru a ne defini rutele, si asteapta ca argument un array cu rutele(fiecare ruta va fi specificata intr-un obiect)
 const routes = createBrowserRouter([
 	{
