@@ -7,7 +7,7 @@
 
   --bg-primary: #161920;
   --bg-secondary: #dfedf5;
-  --bg-dark: #191920;
+  --bg-dark: #0057e2;
 }
 
 /* Resetam proprietati default: */
@@ -64,7 +64,7 @@ a {
 }
 
 .bg-dark {
-  background-color: #191920 !important;
+  background-color: #0057e2 !important;
 }
 
 h1,
