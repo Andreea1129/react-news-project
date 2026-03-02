@@ -21,8 +21,8 @@ function Header() {
         <Container className="d-flex justify-content-between align-items-center">
           <Link to="/" className="p-3">
             <img
-              src="https://itschool.ro/images/logo-itschool-dark.svg"
-              alt="itschool logo"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/3840px-Record_News_logo_2022.svg.png"
+              alt="record-news"
             />
           </Link>
           <div className="menu-icon-container">
