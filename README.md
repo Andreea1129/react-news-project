@@ -27,4 +27,4 @@ All saved articles can be accessed in the Favorites section, where users can als
 
 # Deployment
 The application is deployed on Netlify and can be accessed at the following link:
-https://project-it-school-news.netlify.app/
+https://project-record-news.netlify.app/
